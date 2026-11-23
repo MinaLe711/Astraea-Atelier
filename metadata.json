@@ -1,0 +1,6 @@
+{
+  "name": "Astraea Atelier — 3D Galaxy Fashion & AI Supermodel Coach",
+  "description": "3D cosmic fashion design atelier with interactive pet care, sparkling galaxy shaders, fashion sketching, body shape analysis, fitness sculpting, catwalk training, and an AI superstar designer coach.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
